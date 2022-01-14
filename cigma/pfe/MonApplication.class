@@ -1,0 +1,12 @@
+Êþº¾   3 4  cigma/pfe/MonApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lcigma/pfe/MonApplication; main ([Ljava/lang/String;)V  Borg/springframework/context/support/ClassPathXmlApplicationContext  
+spring.xml
+     (Ljava/lang/String;)V  idCtrl    .org/springframework/context/ApplicationContext   getBean &(Ljava/lang/String;)Ljava/lang/Object;   &cigma/pfe/controllers/ClientController " cigma/pfe/models/Client $ fahimfatima
+ ! 
+  ' ( ) save 4(Lcigma/pfe/models/Client;)Lcigma/pfe/models/Client; args [Ljava/lang/String; context 0Lorg/springframework/context/ApplicationContext; ctrl (Lcigma/pfe/controllers/ClientController; clt Lcigma/pfe/models/Client; 
+SourceFile MonApplication.java !               /     *· ±    
+                    	       ‡     '» Y· L+¹  À M» !Y#· %N,-¶ &W±    
+       	   
+   
+      &     *    ' * +   
+  , -    . /     0 1   2    3
